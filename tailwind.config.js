@@ -11,6 +11,7 @@ module.exports = {
         secondary: "#1A4D2E",
         accent: "#FF9F29",
         whiteish: "#FAF3E3",
+        textColor: "#78787A",
       },
     },
   },
