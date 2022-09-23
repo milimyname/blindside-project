@@ -13,6 +13,9 @@ module.exports = {
         whiteish: "#FAF3E3",
         textColor: "#EEEEEE",
       },
+      boxShadow: {
+        customBoxShadow: "0 2px 20px rgba(26, 77, 46, 67%)",
+      },
     },
   },
   plugins: [],

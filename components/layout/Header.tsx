@@ -5,7 +5,7 @@ import Image from 'next/image'
 
 const Header = () => {
   return (
-    <header className='flex items-center justify-between gap-48 px-8 py-6'>
+    <header className='flex items-center justify-between gap-48 px-8 py-6 relative z-10 shadow-customBoxShadow'>
         <div className='flex items-center gap-4'>
             <Image src='/assets/logo.svg' alt='Logo' width={25} height={25}/>
             <h1 className='text-textColor text-3xl font-normal'>BlindProject</h1>
